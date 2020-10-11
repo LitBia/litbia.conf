@@ -3,6 +3,17 @@ Node Server Node 1
 banknet.litbia.com
 Node 2	walletnet.litbia.com
 
+
+
+# Info
+
+Time until last block	65 years, 10 months, 17 days, 12 hours
+Coinbase maturity	21 ( + 1 default confirmation) blocks
+Target spacing	5 minutes
+Target timespan	10 minutes
+Transaction confirmations	6 blocks
+
+
 ```
 rpcuser=rpc_litbia
 ```
