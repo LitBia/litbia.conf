@@ -1,5 +1,7 @@
 # litbia.conf - Getting started (Paste the following text into litbia.conf and save the file.)
-
+Node Server Node 1	
+banknet.litbia.com
+Node 2	walletnet.litbia.com
 
 ```
 rpcuser=rpc_litbia
