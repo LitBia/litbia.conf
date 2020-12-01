@@ -33,5 +33,5 @@ listen=1
 server=1
 ```
 ```
-addnode=banknet.litbia.com
+addnode=IP address or domain name, where you have the daemon install
 ```
